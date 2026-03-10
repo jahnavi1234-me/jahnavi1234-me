@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Jahnavi 👋
 
-<!--
-**jahnavi1234-me/jahnavi1234-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Generative AI Engineer passionate about building real-world AI applications using Machine Learning, Deep Learning, and Large Language Models.
 
-Here are some ideas to get you started:
+## Interests
+- Generative AI
+- Natural Language Processing
+- Deep Learning
+- AI Systems Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- AI Interview Simulator
+- Resume Job Description Fit Analyzer
+- LLM Powered Resume Screening System
+- Job Description Chat Assistant
+- CNN Plant Disease Classification
+
+## Tech Stack
+Python | TensorFlow | PyTorch | NLP | LLMs | Streamlit
+
+## Goal
+Seeking opportunities to work as a Generative AI Intern and build impactful AI systems.
