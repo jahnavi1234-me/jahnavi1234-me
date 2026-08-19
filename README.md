@@ -1,6 +1,6 @@
 # Hi, I'm Jahnavi 
 
-Aspiring Generative AI Engineer passionate about building real-world AI applications using Machine Learning, Deep Learning, and Large Language Models.
+AI Engineer passionate about building real-world AI applications using Machine Learning, Deep Learning, and Large Language Models.
 
 ## Interests
 - Generative AI
